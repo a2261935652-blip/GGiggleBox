@@ -1,0 +1,5 @@
+{
+  "name": "GiggleBox Order Flow",
+  "description": "제품 선택, 정보 입력, 결제 증빙 업로드로 이어지는 간소화된 4단계 전자상거래 흐름입니다.",
+  "requestFramePermissions": []
+}
